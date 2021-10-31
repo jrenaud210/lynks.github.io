@@ -12,7 +12,6 @@ description: A description of what the site will be about. I will edit this late
 #
 # Use the following plug-ins
 plugins:
--	jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 -	jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
