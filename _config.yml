@@ -1,0 +1,23 @@
+#
+# This file contains configuration flags to customize your site
+#
+# Name of your site (displayed in the header).
+title: Jack Renaud's Corner
+# Short bio or description (displayed in the header)
+description: A description of what the site will be about. I will edit this later.
+
+#
+# ! ! DON’T EDIT BELOW THIS MESSAGE
+#
+# Use the following plug-ins
+Plugins:
+-	jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+-	jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+-	Gemfile
+-	Gemile.lock
+-	LICENSE
+-	README.md
+-	CNAME
