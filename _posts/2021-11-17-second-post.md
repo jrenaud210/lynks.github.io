@@ -1,1 +1,4 @@
-Second Post
+---
+layout: post
+title: Second Post
+---
