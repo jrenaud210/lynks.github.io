@@ -4,7 +4,8 @@ layout: default
 <style>
 	#AboutMe {
 	background: none;
-	border: none;
+	border: 1em;
+	padding: 0;
 	}
 	#AboutMe:hover{
 		background-color: blue;
@@ -12,6 +13,7 @@ layout: default
 #AboutSite {
 	background: none;
 	border: none;
+	padding: 0;
 	}
 	#AboutSite:hover{
 		background-color: blue;
@@ -23,14 +25,16 @@ layout: default
       {% endif %}
               <nav>     
 	<ul>
+		<li>
 		<button id="AboutMe">
 			<a href="/about/me.html">About Me</a>
 		</button>
+		
 		<button id="AboutSite">
-			<a href="/about/site.html"About Site</a>
+			<a href="/about/site.html">About Site</a>
 		</button>
-                    </ul>
-	</li>
+		</li>
+		      </ul>
 		
 	  </nav>
 
