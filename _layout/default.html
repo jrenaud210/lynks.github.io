@@ -22,8 +22,14 @@
         <a href="{{ http://www.jackrenaud.com }}" class="btn">Check Out My Other Site</a>
 	 <a href="https://github.com/jasonlong/cayman-theme/zipball/master" class="btn">Download .zip</a>
 	    <a href="https://github.com/jasonlong/cayman-theme/tarball/master" class="btn">Download .tar.gz</a>
-
-     
+{% if post %}
+    {% assign categories = post.categories %}
+{% else %}
+    {% assign categories = page.categories %}
+{% endif %}
+ {% if categories.size > 0%}
+    <p><strong>Posted In</strong>: {{categories | join: ', ' | capitalize }}</p>
+{%endif%}
     </header>
 
     <main id="content" class="main-content" role="main">
