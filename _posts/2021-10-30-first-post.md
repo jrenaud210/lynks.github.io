@@ -3,7 +3,7 @@ layout: post
 title: Honolua Bay, Maui
 author:
   name: Jack Renaud
-  url: "https://ackrenaud.com"
+  url: "https://jackrenaud.com"
 categories:
 - waves
 ---
