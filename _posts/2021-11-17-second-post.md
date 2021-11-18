@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Website Development: Creating a GitHub Site with Jekyll Themes
+author:
+  name: Jack Renaud
+  url: "https://jackrenaud.com"
+categories:
+- style
 ---
 # Lab Report: ***Style***
 **Name**: Jack Renaud
