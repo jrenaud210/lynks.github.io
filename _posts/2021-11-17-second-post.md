@@ -2,7 +2,7 @@
 layout: post
 title: Website Development: Creating a GitHub Site with Jekyll Themes
 ---
-# Lab Report: ***Style**
+# Lab Report: ***Style***
 **Name**: Jack Renaud
 
 **Website Link**: https://jrenaud210.github.io/lynks.github.io/
