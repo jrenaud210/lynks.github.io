@@ -5,26 +5,13 @@ layout: default
       {% if site.title and site.title != page.title %}
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
-ul class="nav" id="loadCategories">
-            <li class="sub-menu"><a href="#">Search by category</a>
-                    <ul class="">
+              <nav>     
+	<ul class="">
                       <li><a href="/about/site.md">About This Site</a></li>
 				<li><a href="/about/me.md">About Me</a></li>
                     </ul>
 	</li>
-                    </ul>
-            </li>
-            <li class="no-bullet">
-            <button type="button" class="signout_btn" id="btnSignOut">Sign Out</button>
-            </li>
-        </ul>
 		
-	<nav>
-		<li><a href="/">Home</a></li>
-			<ul>
-				
-			</ul>
-		</li>
 	  </nav>
       {{ content }}
 <div class="posts">
