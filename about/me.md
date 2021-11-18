@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-
+link: About Me
 ---
  
  # <div align="center">**Jack Renaud**
