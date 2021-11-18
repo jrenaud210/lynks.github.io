@@ -5,7 +5,7 @@ author:
   name: Jack Renaud
   url: "https://jackrenaud.com"
 categories:
-- style
+- style 
 ---
 # Lab Report: ***Style***
 **Name**: Jack Renaud
