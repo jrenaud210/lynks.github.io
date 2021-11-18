@@ -1,8 +1,5 @@
 theme: jekyll-theme-cayman
 title: Jack Renaud's Blog
-categories: 
-- about
-- welcome
 show_downloads: true
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
