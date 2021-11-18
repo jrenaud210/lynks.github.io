@@ -1,18 +1,24 @@
 ---
 layout: default
 ---
+<style>
+	nav {
+	padding: 30px;
+	border: 1rem solid;
+</style>
 <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
               <nav>     
-	<ul class="">
+	<ul class="nav">
                       <li><a href="/about/site.md">About This Site</a></li>
 				<li><a href="/about/aboutme.html">About Me</a></li>
                     </ul>
 	</li>
 		
 	  </nav>
+
       {{ content }}
 <div class="posts">
   {% for post in site.posts %}
