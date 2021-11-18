@@ -11,19 +11,11 @@
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
 
-    <div class="container-lg px-3 my-5 markdown-body">
+     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
-	  <nav>
-		<li><a href="/">Home</a></li>
-		<li>About
-			<ul>
-				<li><a href="/about/site.html">About This Site</a></li>
-				<li><a href="/about/me.html">About Me</a></li>
-			</ul>
-		</li>
-	  </nav>
+	  {% include navigation.html %}
       {{ content }}
 {% seo %}
 
