@@ -17,22 +17,10 @@ The purpose of Exercise 11 is to exapnd the students' knowledge of both Jekyll a
    *  Next Steps
 
 ### *Challenges I Solved*
-In terms of challenges solved, the majority of my resolved issues focused on the implementation of themes into my GitHub Pages site. I first changed my theme to Architect; however, I did not like the editing options for the theme, so I switched back to the original primer theme. Next, I transitioned from the simplicity of the primer theme and changed my overall aesthetic to the Cayman Jekyll theme. The screenshots below showcase the initial development of both the Architect and the Cayman themes. 
-
-**Architect Theme**
-![Photo1](ss2.png)
-
-**Cayman Theme**
-![Photo2](ss1.png)
+In terms of challenges solved, the majority of my resolved issues focused on the implementation of themes into my GitHub Pages site. I first changed my theme to Architect; however, I did not like the editing options for the theme, so I switched back to the original primer theme. Next, I transitioned from the simplicity of the primer theme and changed my overall aesthetic to the Cayman Jekyll theme. 
 
 ### *Challenges I Did Not Solves*
-The majority of challenges that I did not solve focused on the CSS alteration of my navigation bar. While I was able to implement the navigation page within my site, I had a difficult time in figuring out how to alter the style of each listing. Using both the in-class and outside resources, I utilized CSS to alter each listing to a "button" style; subsequently, I alered the padding, border, and hover aspects of each listing for further customization. However, despite my work, the final product still looks somewhat unappealing when compared to the remainder of the site. I would like to understand how I would be able to manipulate my navigation bar in CSS even further. I have attached photos showcasing my code and my final navigation bar. 
-
-**Navigation CSS Code**
-![Photo3](ss4.png)
-
-**Navigation Bar on Site**
-![Photo4](ss5.png)
+The majority of challenges that I did not solve focused on the CSS alteration of my navigation bar. While I was able to implement the navigation page within my site, I had a difficult time in figuring out how to alter the style of each listing. Using both the in-class and outside resources, I utilized CSS to alter each listing to a "button" style; subsequently, I alered the padding, border, and hover aspects of each listing for further customization. However, despite my work, the final product still looks somewhat unappealing when compared to the remainder of the site. I would like to understand how I would be able to manipulate my navigation bar in CSS even further. 
 
 ## **Why**
 
