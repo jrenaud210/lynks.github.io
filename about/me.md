@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
+
 ---
  
  # <div align="center">**Jack Renaud**
